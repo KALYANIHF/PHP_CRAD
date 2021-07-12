@@ -1,6 +1,6 @@
 # PHP_CRAD
 
-# Create a table using PHP (with all the syntex )
+# Create a connection to the database using PHP (with all the syntex )
 
 ### 1. Object Oriented Way.
 
